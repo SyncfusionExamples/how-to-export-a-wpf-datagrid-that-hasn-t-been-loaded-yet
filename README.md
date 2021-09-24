@@ -65,5 +65,7 @@ private static void OnExecuteExportToExcel(object sender, ExecutedRoutedEventArg
 }
 ```
 
+KB article - [How to export a WPF DataGrid (SfDataGrid) that hasn't been loaded yet?](https://www.syncfusion.com/kb/11915/how-to-export-wpf-datagrid-sfdatagrid-to-excel-that-hasnt-loaded)
+
 ## Requirements to run the demo
  Visual Studio 2015 and above versions
