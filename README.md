@@ -1,6 +1,6 @@
 # How to Export WPF DataGrid to Excel that hasn't Loaded?
 
-THis sample show cases how to export a [WPF DataGrid](https://www.syncfusion.com/wpf-controls/datagrid) (SfDataGrid) that hasn't been loaded yet.
+This sample show cases how to export a [WPF DataGrid](https://www.syncfusion.com/wpf-controls/datagrid) (SfDataGrid) that hasn't been loaded yet.
 
 You can export the datagrid to excel by using the [ExportToExcel](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Grid.Converter.GridExcelExportExtension.html#Syncfusion_UI_Xaml_Grid_Converter_GridExcelExportExtension_ExportToExcel_Syncfusion_UI_Xaml_Grid_SfDataGrid_Syncfusion_Data_ICollectionViewAdv_Syncfusion_UI_Xaml_Grid_Converter_ExcelExportingOptions_) method in `DataGrid`. You can also export the `DataGrid` before it's loading (AutoGenerateColumns = True/False) by using the `DataGrid.ApplyTemplate` method.
 
